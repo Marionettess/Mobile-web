@@ -1,5 +1,3 @@
 # demo
 
-demo to learn githnb
-
-first stcp in github.
+demo to learn githnb.
