@@ -1,0 +1,175 @@
+body{
+	width: 1428px;
+	margin:0 auto;
+	border: solid 1px;
+}
+header{
+	height: 80px; 
+	width: 1400px;
+	margin:0 auto;
+	font-size: 22px;
+}
+.logo{
+	padding-left: 38px;
+	padding-top: 12px;
+	float: left;
+}
+
+.nav ul{
+	padding-right:50px;
+	float: right;
+}
+.nav ul li{
+	list-style: none;
+	float: left;
+	padding: 10px 25px 10px 25px;
+	margin-bottom: 10px;
+}
+.bread{
+	padding-left: 120px;
+	height: 60px;
+	padding-top: 50px;
+	font-size: ;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+}
+article{
+	font-size: 15px;
+}
+[class^=section]{
+	width: 1175px;
+	height: 370px;
+	padding:0 0 0 0;
+	border-bottom: dotted 1px;
+	margin-left: 120px;
+}
+[id^=img]{
+	float: left;
+	
+	padding: 30px 0 0 0;
+}
+
+[id^=word]{
+	width: 700px;
+	height:360px;
+	padding:10px 0 0 10px;
+	float: left;
+
+}
+[id^=btn]{
+	padding:0 0 0 0 ;
+	height: 38px;
+	width: 120px;
+	background-color: #E8410A;
+	border: solid 1px #E8410A;
+	box-shadow: 0 1px 2px;
+	border-radius: 10px;
+	font-size: 17px;
+	color: white;
+}
+[id^=money]{
+	float: right;
+	padding: 0 20px 0 0;
+	color: #e8410a;
+	font-size: 25px;
+}
+[id^=sp]{
+	padding: 0 50px 0 0;
+	font-size: 17px;
+	color: #000000;
+}
+.pagination{
+	width: 1428px;
+	height: 180px;
+	float: right;
+}
+.pagination ul{
+	padding-top: 80px;
+	padding-right: 100px;
+	float: right;
+	
+}
+.pagination ul li{
+	float: left;
+	list-style: none;
+	padding: 2px;
+}
+[class^=btn]{
+	width: 40px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: white;
+}
+.btn8{
+	width: 80px;
+}
+.btn3{
+	background-color: #1c5080;
+	border-color: #1C5080;
+}
+footer{
+	background-color: black;
+	width: 1428px;
+	color: white;
+	float: left;
+	font-size: 15px;
+}
+[class^=list]{
+	float: left;
+	padding: 20px 20px 0 0;
+}
+.list1{
+	padding-left: 80px;
+}
+footer div ul{
+	list-style: none;
+}
+[id^=list]{
+	float: left;
+}
+.list5{
+	padding-left: 80px;
+}
+.zcrx{
+	float: left;
+	font-size: 25px;
+}
+#zxrx{
+	line-height: 0;
+}
+#cus{
+	font-size: 10px;
+}
+.call{
+	padding-left: 50px;
+	float: left;
+	font-size: 30px;
+}
+#one{
+	line-height: 0;
+}
+.thetwo{
+	width: 1428px;
+	float: left;
+	border-top: white solid 1px;
+}
+.thetwo p{
+	float: none;
+	padding-left: 450px;
+}
+#jszc{
+	padding-left: 590px;
+}
+.guide{
+	width:60px;
+	margin-left:625px;
+	position:fixed;
+	left:50%;
+	bottom:400px;
+	_position:absolute;
+	_top:expression(documentElement.scrollTop+documentElement.clientHeight - this.clientHeight - 134+'px');
+	display:block;
+}
+.guide-wrap ul{
+	list-style: none;
+}
