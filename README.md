@@ -1,3 +1,3 @@
-# demo
+# 《移动web开发课程》
 
-demo to learn githnb.
+基于《移动web开发课程》的代码练习.
